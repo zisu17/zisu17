@@ -7,7 +7,6 @@
    <a href="mailto:s.zisu0417@gmail.com"><img height="25em" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gkdms325@gmail.com"/></a>
    <a href="https://hub.docker.com/u/zisu17" target="_blank"><img height="25em" src="https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
   </p>
-  <br />
   
   ### 🛠 Tech Stack 🛠
   <img height="25em" alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
