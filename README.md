@@ -21,6 +21,11 @@
   <img height="25em" src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"> 
   <img height="25em" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> 
   <br />
+  <img height="25em" src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+  <img height="25em" src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+  <img height="25em" src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img height="25em" src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
+  <br />
   <img height="25em" src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
   <img height="25em" src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
   <img height="25em" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
