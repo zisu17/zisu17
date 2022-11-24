@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=JISU's%20GITHUB!&fontSize=60)
 
 <div align=center>
-
-  ### ⚡ Data Engineer ⚡
+  
+  ### 🌱 Data Engineer 🌱
   <p align="center">
    <a href="mailto:s.zisu0417@gmail.com"><img height="25em" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gkdms325@gmail.com"/></a>
    <a href="https://hub.docker.com/u/zisu17" target="_blank"><img height="25em" src="https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
@@ -30,6 +30,7 @@
   <img height="25em" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
   <img height="25em" src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white">
   
+  <br />
   <br />
   <br />
   
