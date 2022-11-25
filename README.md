@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=JISU's%20GITHUB!&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=JISU's%20GITHUB!&fontSize=50)
 
 <div align=center>
   
