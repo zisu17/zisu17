@@ -11,15 +11,14 @@
   ### 🛠 Tech Stack 🛠
   <img height="25em" alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
   <img height="25em" alt="Python" src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
-  <img height="25em" src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"> 
   <br />
+  <img height="25em" src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"> 
   <img height="25em" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> 
   <img height="25em" src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white"> 
-  <img height="25em" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"> 
   <br />
+  <img height="25em" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"> 
   <img height="25em" src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=white"> 
   <img height="25em" src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"> 
-  <img height="25em" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> 
   <br />
   <img height="25em" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
   <img height="25em" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"> 
