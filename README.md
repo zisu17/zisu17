@@ -1,14 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=150&section=header&text=&fontSize=90)
 
 <div align=center>
-  
-  ### 🌱 Data Engineer 🌱
+
+  ### `🌱 Contact 🌱`
   <p align="center">
    <a href="mailto:s.zisu0417@gmail.com"><img height="25em" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gkdms325@gmail.com"/></a>
    <a href="https://hub.docker.com/u/zisu17" target="_blank"><img height="25em" src="https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
   </p>
+
+  <br>
   
-  ### 🛠 Tech Stack 🛠
+  ### `🛠 Tech Stack 🛠`
   <img height="25em" alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
   <img height="25em" alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?&style=flat-square&logo=GNU%20Bash&logoColor=white"/>
   <br />
