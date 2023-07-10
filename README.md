@@ -4,7 +4,7 @@
 
   ### `🌱 Contact 🌱`
   <p align="center">
-   <a href="mailto:s.zisu0417@gmail.com"><img height="25em" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gkdms325@gmail.com"/></a>
+   <a href="https://zisu17.github.io/"><img height="25em" src="https://img.shields.io/badge/Github%20Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://zisu17.github.io/"/></a>
    <a href="https://hub.docker.com/u/zisu17" target="_blank"><img height="25em" src="https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
   </p>
 
