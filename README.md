@@ -16,6 +16,7 @@
   <br />
   <img height="25em" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
   <img height="25em" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?&style=flat-square&logo=FastAPI&logoColor=white"/>
+  <img height="25em" alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?&style=flat-square&logo=Elasticsearch&logoColor=white"/>
   <br />
   <img height="25em" src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white"> 
   <img height="25em" src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"> 
