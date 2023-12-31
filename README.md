@@ -2,11 +2,13 @@
 
 <div align=center>
 
-  ### `🌱 Contact 🌱`
+  ### `🌱 Home 🌱`
   <p align="center">
-   <a href="https://zisu17.github.io/"><img height="25em" src="https://img.shields.io/badge/Github%20Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://zisu17.github.io/"/></a>
-   <a href="https://hub.docker.com/u/zisu17" target="_blank"><img height="25em" src="https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+    <a href="https://hits.seeyoufarm.com"><img height="25em" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzisu17%2Fhit-counter&count_bg=%23FF9D49&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+    <a href="https://zisu17.github.io/"><img height="25em" src="https://img.shields.io/badge/Github%20Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://zisu17.github.io/"/></a>
+    <a href="https://hub.docker.com/u/zisu17" target="_blank"><img height="25em" src="https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
   </p>
+
 
   <br>
   
