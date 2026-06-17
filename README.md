@@ -5,9 +5,7 @@
   <h3><code>🌱 Home 🌱</code></h3>
 
   <p align="center">
-    <a href="https://hits.seeyoufarm.com">
-      <img height="25" alt="hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzisu17%2Fzisu17&count_bg=%23FF9D49&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-    </a>
+    <img height="25" alt="profile views" src="https://komarev.com/ghpvc/?username=zisu17&style=flat-square&color=ff9d49" />
     <a href="https://zisu17.github.io/">
       <img height="25" src="https://img.shields.io/badge/Github%20Blog-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white" />
     </a>
