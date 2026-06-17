@@ -1,4 +1,3 @@
-```md
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=150&section=header&text=&fontSize=90)
 
 <div align="center">
@@ -57,4 +56,3 @@
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=150&section=footer&text=&fontSize=90)
-```
