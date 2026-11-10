@@ -19,7 +19,6 @@
   <h3><code>🛠 Tech Stack 🛠</code></h3>
 
   <img height="25" alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&amp;logo=Python&amp;logoColor=white" />
-  <img height="25" alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?style=flat-square&amp;logo=GNU%20Bash&amp;logoColor=white" />
 
   <br />
 
@@ -36,6 +35,13 @@
 
   <br />
 
+  <img height="25" alt="Apache Iceberg" src="https://img.shields.io/badge/Apache_Iceberg-5C7E9D?style=flat-square" />
+  <img height="25" alt="DuckDB" src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&amp;logo=duckdb&amp;logoColor=111111" />
+  <img height="25" alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&amp;logo=dbt&amp;logoColor=white" />
+  <img height="25" alt="Apache Superset" src="https://img.shields.io/badge/Apache_Superset-20A7C9?style=flat-square&amp;logo=apachesuperset&amp;logoColor=white" />
+
+  <br />
+
   <img height="25" alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=flat-square&amp;logo=RabbitMQ&amp;logoColor=white" />
   <img height="25" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&amp;logo=Oracle&amp;logoColor=white" />
   <img height="25" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat-square&amp;logo=MongoDB&amp;logoColor=white" />
@@ -46,6 +52,7 @@
   <img height="25" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" />
   <img height="25" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" />
   <img height="25" alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121.svg?style=flat-square&amp;logo=GitLab&amp;logoColor=white" />
+  <img height="25" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" />
 
   <br />
   <br />
