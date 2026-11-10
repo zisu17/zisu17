@@ -35,10 +35,10 @@
 
   <br />
 
-  <img height="25" alt="Apache Iceberg" src="https://img.shields.io/badge/Apache_Iceberg-5C7E9D?style=flat-square" />
+  <img height="25" alt="Iceberg" src="https://img.shields.io/badge/Iceberg-5C7E9D?style=flat-square&amp;logo=data:image%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAARGVYSWZNTQAqAAAACAABh2kABAAAAAEAAAAaAAAAAAADoAEAAwAAAAEAAQAAoAIABAAAAAEAAAAQoAMABAAAAAEAAAAQAAAAADRVcfIAAALBSURBVDgRdVNdTxNBFD0zs7vtQmvlI9gaH0hMTNQ3X4QgD4rEhB%2Fgm7%2BABKPBFxKTPpUXn8DwA%2FwTCsagAWKIiSYqUWsEpEBL6AcL3bb7MTPeLYYQg3dzJ7Nzzz1z5t4Zhv%2FYfEn36dDNRGHDROnuhcTeWVD27%2BL87%2FooN%2Fi4UnpQa91NzjjnVc7Yqgr13L3%2Bzpenc04IFrU2%2FII7DSEeW6bJZeBDK9XGMsZhWhaCMNQyCGadeuLJ%2FevMj4JGNGgN9mbbzcU7Oidt5SFja5gJCxE7a4%2BAJFCxwVg9lpgQ3KWc7CPGsqqt4Eb23Z1MX3IhaRtibKgfXXEDqTY18KkSICAhTaeJ%2Fc0y9loh6sRWLNfHPj4dftWGub6cWNuqi4Fr3UhaHEJJNALAk8Avx0eT9vFrPso7R9hveqhIwQwVPiTt8%2FxKdrGXVA4akDhs%2BHACjYbU0clgcMAyBLhWOKhWsVPbp3hA5yZmpm9enVpKG8JHWoF1CQJvFBz82D3CpXQSZV8haTAclKrIfy%2BgXjtEk8UpkURTPchS5BlK%2B2tUjVAqvF5eR6F4CM1ItiI1ZRfndBwXe9N0H2LQ9J02Li2USE4tqjfnDFWnhZUPW8hYQILoRdKGoKJqIjtJJnIyh7zI89nbZYq853Td2kaxHmphKiYQFwxGIg6eslFu%2BqSQ%2Bk0gLghLF%2Btbbrh0fASlZ5SUkhYhyEsHLXzZa8ChWu1ubuPnxg5qXhiFo0RSQ33UaoZ%2BtIh2rSy%2F2Oi99SDBLXsIWsKlbuSpmOd7OrH2eR1HHnVCEJSSuWlDBa3n%2BemR2Sj3pIgZi01R4BmYUGbcRs3xsLC0DmkmwY0YFZ%2BcCa28xowZq0xGyZG1q3E8PR6vTr0dVYKNI3pMSnVHGHpNVdp8VSk5l8%2BNnP2YTpNE88vZlT7R9DKgbliyo%2FQ1N3Dmc%2F4DnQJAdWcvsmEAAAAASUVORK5CYII%3D" />
   <img height="25" alt="DuckDB" src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&amp;logo=duckdb&amp;logoColor=111111" />
   <img height="25" alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&amp;logo=dbt&amp;logoColor=white" />
-  <img height="25" alt="Apache Superset" src="https://img.shields.io/badge/Apache_Superset-20A7C9?style=flat-square&amp;logo=apachesuperset&amp;logoColor=white" />
+  <img height="25" alt="Superset" src="https://img.shields.io/badge/Superset-20A7C9?style=flat-square&amp;logo=apachesuperset&amp;logoColor=white" />
 
   <br />
 
